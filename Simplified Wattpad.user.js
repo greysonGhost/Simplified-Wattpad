@@ -7,6 +7,7 @@
 // @match        https://www.wattpad.com/*
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.7.0.min.js
+// @license      gpl-3.0
 // ==/UserScript==
 
 // remove scrolling author|pfp
